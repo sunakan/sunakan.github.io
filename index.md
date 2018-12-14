@@ -5,3 +5,4 @@
 - [gitでremoteで消えたブランチをlocalのremotes一覧から消す](memo/gitでremoteで消えたブランチをlocalのremotes一覧から消す.md)
 - [travis-ciで環境変数を暗号化して設定](memo/travis-ciで環境変数を暗号化して設定.md)
 - [origami gemのメモ](memo/ruby_origami_gem.md)
+- [WSLでssh-agentを利用して、リモート先にforwardしたい](memo/ssh-agent_on_wsl-1804.md)
