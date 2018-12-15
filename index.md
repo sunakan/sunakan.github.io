@@ -6,3 +6,4 @@
 - [travis-ciで環境変数を暗号化して設定](memo/travis-ciで環境変数を暗号化して設定.md)
 - [origami gemのメモ](memo/ruby_origami_gem.md)
 - [WSLでssh-agentを利用して、リモート先にforwardしたい](memo/ssh-agent_on_wsl-1804.md)
+- [Docker on Vagrant on WSL](memo/docker_on_vagrant_on_wsl.md)
