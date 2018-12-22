@@ -8,3 +8,4 @@
 - [WSLでssh-agentを利用して、リモート先にforwardしたい](notes/ssh-agent_on_wsl-1804.md)
 - [Docker on Vagrant on WSL](notes/docker_on_vagrant_on_wsl.md)
 - [Vimの簡単なメモ](notes/vim.md)
+- [Dockerの基礎](notes/docker_st.md)
