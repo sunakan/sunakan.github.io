@@ -9,3 +9,4 @@
 - [Docker on Vagrant on WSL](notes/docker_on_vagrant_on_wsl.md)
 - [Vimの簡単なメモ](notes/vim.md)
 - [Dockerの基礎](notes/docker_st.md)
+- [tigrc](notes/tigrc.md)
