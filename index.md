@@ -10,3 +10,4 @@
 - [Vimの簡単なメモ](notes/vim.md)
 - [Dockerの基礎](notes/docker_st.md)
 - [tigrc](notes/tigrc.md)
+- [du-どのディレクトリが容量を食ってるか探す](notes/check_dir_size.md)
