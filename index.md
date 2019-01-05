@@ -13,3 +13,4 @@
 - [du-どのディレクトリが容量を食ってるか探す](notes/check_dir_size.md)
 - [.bashrcに追加したい](notes/bashrc.md)
 - [.gitconfig](notes/gitconfig.md)
+- [.tmux.conf](notes/tmux-conf.md)
