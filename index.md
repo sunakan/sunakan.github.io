@@ -16,3 +16,4 @@
 - [.tmux.conf](notes/tmux-conf.md)
 - Vagrant
   - [Vagrantのバージョンとリリースサイクル](notes/vagrant/vagrant-version_and_vagrant-release-cycle.md)
+  - [V1とV2の設定は混在OK](notes/vagrant/v1-config_and_v2-config.md)
