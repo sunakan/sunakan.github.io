@@ -14,3 +14,5 @@
 - [.bashrcに追加したい](notes/bashrc.md)
 - [.gitconfig](notes/gitconfig.md)
 - [.tmux.conf](notes/tmux-conf.md)
+- Vagrant
+  - [Vagrantのバージョンとリリースサイクル](notes/vagrant/vagrant-version_and_vagrant-release-cycle.md)
