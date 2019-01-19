@@ -14,6 +14,7 @@
 - [.bashrcに追加したい](notes/bashrc.md)
 - [.gitconfig](notes/gitconfig.md)
 - [.tmux.conf](notes/tmux-conf.md)
+- [ubuntuのppa](notes/what_is_ubuntu-ppa.md)
 - Vagrant
   - [Vagrantのバージョンとリリースサイクル](notes/vagrant/vagrant-version_and_vagrant-release-cycle.md)
   - [V1とV2の設定は混在OK](notes/vagrant/v1-config_and_v2-config.md)
