@@ -1,11 +1,36 @@
 <!DOCTYPE html>
 
 <html lang="ja">
-  <head>
+
+<head>
     <meta charset="UTF-8">
     <title>HTML5サンプル</title>
-  </head>
-  <body>
-    <p>HTML5で作成しました！</p>
-  </body>
+</head>
+
+<body>
+    <button id="onlyRedButton">押すと赤くなる</button>
+    <p id="onlyTarget">HelloWorld</p>
+    <button id="onlyBlackButton">押すと黒くなる</button>
+</body>
+
+<!--埋め込み時、一番下に書くのがコツ-->
+<script>
+    console.log("-----------");
+    console.log("右クリックから [検証] を押して、 [Console] タブ選択すると...");
+    console.log(redButton);
+    console.log("-----------HelloWorld");
+
+    // 赤
+    var redButton = document.getElementById("onlyRedButton");
+    redButton.addEventListener("click", function () {
+        document.getElementById("onlyTarget").style.color = "red";
+    });
+
+    // 黒
+    var blackButton = document.getElementById("onlyBlackButton");
+    blackButton.addEventListener("click", function () {
+        document.getElementById("onlyTarget").style.color = "black";
+    });
+</script>
+
 </html>
